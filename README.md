@@ -33,9 +33,11 @@
 
 <br>
 
+# Installation
 
+Install the extension: https://marketplace.visualstudio.com/items?itemName=inlang.vs-code-extension
 
-# Let's get started
+# Getting Started
 
 1. Add a `project.inlang` folder to your repository
 2. Create a `settings.json` file to that new dir `project.inlang/settings.json`
