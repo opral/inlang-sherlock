@@ -4,14 +4,12 @@
 
 > The code of this project is in the monorepo [https://github.com/opral/monorepo/tree/main/inlang/source-code/ide-extension](https://github.com/opral/monorepo/tree/main/inlang/source-code/ide-extension)
 
-**Documentation: [https://inlang.com/m/r7kp499g/app-inlang-ideextension](https://inlang.com/m/r7kp499g/app-inlang-ideextension)**
-
 <div>
 	<p>
 		<br>
 		<a href='https://inlang.com/c/apps' target="_blank">🕹️ Other i18n Apps</a>
 		·
-		<a href='https://inlang.com/m/r7kp499g' target="_blank">📄 Docs</a>
+		<a href='https://inlang.com/m/r7kp499g' target="_blank">📄 Documentation</a>
 		·
 		<a href='https://discord.gg/gdMPPWy57R' target="_blank">💙 Discord</a>
 		·
