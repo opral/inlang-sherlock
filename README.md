@@ -4,6 +4,8 @@
 
 > The code of this project is in the monorepo [https://github.com/opral/monorepo/tree/main/inlang/source-code/ide-extension](https://github.com/opral/monorepo/tree/main/inlang/source-code/ide-extension)
 
+**Documentation: [https://inlang.com/m/r7kp499g/app-inlang-ideextension](https://inlang.com/m/r7kp499g/app-inlang-ideextension)**
+
 <div>
 	<p>
 		<br>
